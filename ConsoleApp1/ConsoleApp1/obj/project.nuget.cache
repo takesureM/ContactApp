@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/q907IpumUzFP1j8kU46RNUzZmOwnIXxwGlLaz2j16ElLnvHR3Z6n9faH9i/ZhY9NBjl8pM9XmdBVosmFuNqdg==",
+  "success": true,
+  "projectFilePath": "G:\\Academy\\ContactApp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
